@@ -1,0 +1,84 @@
+2018-36-02 12:36:50 INFO  Class:24 - chrome browser is lauched
+2018-36-02 12:36:59 INFO  Class:28 - navigating to the url: https://opensource-demo.orangehrmlive.com/
+2018-37-02 12:37:00 INFO  Class:36 - entered username: Admin
+2018-37-02 12:37:01 INFO  Class:38 - enterd password: admin123
+2018-37-02 12:37:07 INFO  Class:45 - Asserting actual Title: OrangeHRM and expected Title: OrangeHRM
+2018-37-02 12:37:08 INFO  Class:61 - browser is closed
+2018-37-02 12:37:10 INFO  Class:24 - chrome browser is lauched
+2018-37-02 12:37:18 INFO  Class:28 - navigating to the url: https://opensource-demo.orangehrmlive.com/
+2018-37-02 12:37:18 INFO  Class:57 - entered username: Admin
+2018-37-02 12:37:18 INFO  Class:59 - enterd password: admin
+2018-37-02 12:37:20 INFO  Class:66 - Asserting actual error: Invalid credentials and expected error: Invalid credentials
+2018-37-02 12:37:20 INFO  Class:61 - browser is closed
+2018-39-02 12:39:43 INFO  Class:24 - chrome browser is launched
+2018-39-02 12:39:50 INFO  Class:28 - navigating to the url: https://opensource-demo.orangehrmlive.com/
+2018-39-02 12:39:51 INFO  Class:36 - entered username: Admin
+2018-39-02 12:39:51 INFO  Class:38 - entered password: admin123
+2018-39-02 12:39:58 INFO  Class:45 - Asserting actual Title: OrangeHRM and expected Title: OrangeHRM
+2018-39-02 12:39:58 INFO  Class:61 - browser is closed
+2018-40-02 12:40:01 INFO  Class:24 - chrome browser is launched
+2018-40-02 12:40:09 INFO  Class:28 - navigating to the url: https://opensource-demo.orangehrmlive.com/
+2018-40-02 12:40:09 INFO  Class:57 - entered username: Admin
+2018-40-02 12:40:09 INFO  Class:59 - entered password: admin
+2018-40-02 12:40:11 INFO  Class:66 - Asserting actual error: Invalid credentials and expected error: Invalid credentials
+2018-40-02 12:40:11 INFO  Class:61 - browser is closed
+2018-32-08 08:32:21 INFO  Class:24 - chrome browser is launched
+2018-32-08 08:32:26 INFO  Class:28 - navigating to the url: https://opensource-demo.orangehrmlive.com/
+2018-32-08 08:32:28 INFO  Class:36 - entered username: Admin
+2018-32-08 08:32:28 INFO  Class:38 - entered password: admin123
+2018-32-08 08:32:33 INFO  Class:45 - Asserting actual Title: OrangeHRM and expected Title: OrangeHRM
+2018-32-08 08:32:34 INFO  Class:61 - browser is closed
+2018-32-08 08:32:36 INFO  Class:24 - chrome browser is launched
+2018-32-08 08:32:41 INFO  Class:28 - navigating to the url: https://opensource-demo.orangehrmlive.com/
+2018-32-08 08:32:42 INFO  Class:57 - entered username: Admin
+2018-32-08 08:32:42 INFO  Class:59 - entered password: admin
+2018-32-08 08:32:44 INFO  Class:66 - Asserting actual error: Invalid credentials and expected error: Invalid credentials
+2018-32-08 08:32:44 INFO  Class:61 - browser is closed
+2018-36-08 08:36:39 INFO  Class:24 - chrome browser is launched
+2018-36-08 08:36:44 INFO  Class:28 - navigating to the url: https://opensource-demo.orangehrmlive.com/
+2018-36-08 08:36:45 INFO  Class:36 - entered username: Admin
+2018-36-08 08:36:45 INFO  Class:38 - entered password: admin123
+2018-36-08 08:36:50 INFO  Class:45 - Asserting actual Title: OrangeHRM and expected Title: OrangeHRM
+2018-36-08 08:36:51 INFO  Class:61 - browser is closed
+2018-36-08 08:36:53 INFO  Class:24 - chrome browser is launched
+2018-36-08 08:36:58 INFO  Class:28 - navigating to the url: https://opensource-demo.orangehrmlive.com/
+2018-36-08 08:36:59 INFO  Class:57 - entered username: Admin
+2018-36-08 08:36:59 INFO  Class:59 - entered password: admin
+2018-37-08 08:37:01 INFO  Class:66 - Asserting actual error: Invalid credentials and expected error: Invalid credentials
+2018-37-08 08:37:01 INFO  Class:61 - browser is closed
+2018-37-08 08:37:39 INFO  Class:24 - chrome browser is launched
+2018-37-08 08:37:44 INFO  Class:28 - navigating to the url: https://opensource-demo.orangehrmlive.com/
+2018-37-08 08:37:45 INFO  Class:36 - entered username: Admin
+2018-37-08 08:37:45 INFO  Class:38 - entered password: admin123
+2018-37-08 08:37:50 INFO  Class:45 - Asserting actual Title: OrangeHRM and expected Title: OrangeHRM
+2018-37-08 08:37:51 INFO  Class:61 - browser is closed
+2018-37-08 08:37:54 INFO  Class:24 - chrome browser is launched
+2018-37-08 08:37:59 INFO  Class:28 - navigating to the url: https://opensource-demo.orangehrmlive.com/
+2018-37-08 08:37:59 INFO  Class:57 - entered username: Admin
+2018-37-08 08:37:59 INFO  Class:59 - entered password: admin
+2018-38-08 08:38:01 INFO  Class:66 - Asserting actual error: Invalid credentials and expected error: Invalid credentials
+2018-38-08 08:38:02 INFO  Class:61 - browser is closed
+2018-01-08 09:01:05 INFO  Class:24 - chrome browser is launched
+2018-01-08 09:01:11 INFO  Class:28 - navigating to the url: https://opensource-demo.orangehrmlive.com/
+2018-01-08 09:01:13 INFO  Class:36 - entered username: Admin
+2018-01-08 09:01:13 INFO  Class:38 - entered password: admin123
+2018-01-08 09:01:18 INFO  Class:45 - Asserting actual Title: OrangeHRM and expected Title: OrangeHRM
+2018-01-08 09:01:18 INFO  Class:61 - browser is closed
+2018-01-08 09:01:21 INFO  Class:24 - chrome browser is launched
+2018-01-08 09:01:27 INFO  Class:28 - navigating to the url: https://opensource-demo.orangehrmlive.com/
+2018-01-08 09:01:27 INFO  Class:57 - entered username: Admin
+2018-01-08 09:01:27 INFO  Class:59 - entered password: admin
+2018-01-08 09:01:29 INFO  Class:66 - Asserting actual error: Invalid credentials and expected error: Invalid credentials
+2018-01-08 09:01:30 INFO  Class:61 - browser is closed
+2018-05-08 09:05:04 INFO  Class:24 - chrome browser is launched
+2018-05-08 09:05:10 INFO  Class:28 - navigating to the url: https://opensource-demo.orangehrmlive.com/
+2018-05-08 09:05:12 INFO  Class:36 - entered username: Admin
+2018-05-08 09:05:12 INFO  Class:38 - entered password: admin123
+2018-05-08 09:05:18 INFO  Class:45 - Asserting actual Title: OrangeHRM and expected Title: OrangeHRM1
+2018-05-08 09:05:18 INFO  Class:61 - browser is closed
+2018-05-08 09:05:21 INFO  Class:24 - chrome browser is launched
+2018-05-08 09:05:26 INFO  Class:28 - navigating to the url: https://opensource-demo.orangehrmlive.com/
+2018-05-08 09:05:27 INFO  Class:57 - entered username: Admin
+2018-05-08 09:05:27 INFO  Class:59 - entered password: admin
+2018-05-08 09:05:29 INFO  Class:66 - Asserting actual error: Invalid credentials and expected error: Invalid credentials
+2018-05-08 09:05:31 INFO  Class:61 - browser is closed
